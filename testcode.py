@@ -9,3 +9,4 @@ print("<출력>")
 print("이름 :", name)
 print("학번 :", studentId)
 print("팀 이름 :", team)
+
